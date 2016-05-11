@@ -4,12 +4,13 @@
   <nav>
     <ul class="usa-sidenav-list">
       <li>
-        <a href='{{site.baseurl}}'>Introduction</a>
+        <a {% if page.title == 'Introduction' %} class="usa-current"{% endif %}href='{{site.baseurl}}'>Introduction</a>
       </li>
-      
+
       {% for topic in site.topics %}
       <li>
-        <a href="{{topic.permalink}}">{{ topic.title }}</a>
+        <a {% if page.title == topic.title %}class="usa-current"{% endif %} href="{{topic.permalink}}">{{ topic.title }}</a>
+
       </li>
       {% endfor %}
 
