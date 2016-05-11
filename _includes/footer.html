@@ -1,38 +1,9 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
+<div class="usa-grid">
+  <div class="usa-width-one-half">
+    <p>Feedback? Create an issue on the <a href="{{ site.repos[0].url }}">GitHub repository</a> or email us at <a href="mailto:uswebdesignstandards@gsa.gov">uswebdesignstandards@gsa.gov</a>.</p>
+    <p>Have an idea? Read our <a href="{{ site.repos[0].url }}/blob/18f-pages/CONTRIBUTING.md">contribution guidelines</a>.</p>
   </div>
-
-</footer>
+  <div class="usa-width-one-half usa-end-row">
+    <p>As a work of the United States government, this project is <a href="{{ site.repos[0].url }}/blob/18f-pages/LICENSE.md">in the public domain</a>.</p>
+  </div>
+</div>
