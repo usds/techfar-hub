@@ -2,7 +2,9 @@
 
 This is a template website built to provide a baseline for documentation content such as "how-to" guides, technical manuals, and the like. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
 
-This project is help teams needing to make a documentation site get up and running faster.
+This project is help teams needing to make a documentation site get up and running faster. It provides a site that looks like this:
+
+![image](https://cloud.githubusercontent.com/assets/1237498/15230863/df1aa2d0-1865-11e6-947c-ecde1fb3b7f9.png)
 
 ## Using the Template
 
