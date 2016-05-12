@@ -17,4 +17,5 @@ markdown: kramdown
 repo_url: https://github.com/xxxxx/xxxxx
 
 collections: 
-  - topics
+  topics:
+    output: true
