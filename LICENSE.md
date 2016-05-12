@@ -1,6 +1,6 @@
 ## A few parts of this project are not in the public domain
 
-The U.S. Web Design Standard library contains several files that are not in the public domain. These are described in that project's license.](https://github.com/18F/web-design-standards/blob/LICENSE.md).
+This project uses the U.S. Web Design Standards library, which contains several files that are not in the public domain. These are described in that project's license.](https://github.com/18F/web-design-standards/blob/LICENSE.md).
 
 ## The rest of this project is in the public domain
 
