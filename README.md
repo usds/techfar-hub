@@ -1,29 +1,13 @@
-## About This Project
+# TechFAR Hub
+======================
 
-This is a template website built to provide a baseline for documentation content such as "how-to" guides, technical manuals, and the like. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
+## Mission
+The goal of the site is to help acquisition professionals learn, discuss, and execute Digital Service Acquisitions
 
-This project is help teams needing to make a documentation site get up and running faster. It provides a site that looks like this:
+## How it works
 
-![image](https://cloud.githubusercontent.com/assets/1237498/15230863/df1aa2d0-1865-11e6-947c-ecde1fb3b7f9.png)
+The site is broken into three functional areas; Discover, Discuss, and Do. The Discover IT page provides tools to learn about DS acquisitions. The Discuss IT page is focused on fostering conversations about lessons learned and how to overcome obstacles. The Do IT page is focused on heping you actually start your acquisition.
 
-## Using the Template
+## Contributing
 
-The site is built using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"), a Ruby library for creating generating static sites. You will need Ruby to use this project.
-
-### Installation
-
-[to do write installation guide]
-  - Install ruby
-  - Install Jekyll
-  - Download the project from github (or fork it?)
-  - To run the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/` in your browser to preview the site.
-
-### Creating Content
-
-[TO DO ADD INSTRUCTIONS ABOUT CREATING NEW CONTENT]
-
-### Configuration Options
-[TO DO EXPLAIN WHAT CONFIGURATION OPTIONS NEED TO BE SET LIKE EMAIL AND GITHUB REPO AND GOOGLE ANALYTICS SNIPPIT]
-
-## We Want Your Feedback
-We encourage your feedback and suggestions on these documents.
+Content and feature suggestions are welcome via GitHub Issues. Code contributions are welcome via pull request, although of course we cannot guarantee your changes will be included in the site.
