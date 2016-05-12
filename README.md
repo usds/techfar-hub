@@ -20,5 +20,8 @@ The site is built using [Jekyll](https://github.com/jekyll/jekyll "Link to More 
 
 [TO DO ADD INSTRUCTIONS ABOUT CREATING NEW CONTENT]
 
+### Configuration Options
+[TO DO EXPLAIN WHAT CONFIGURATION OPTIONS NEED TO BE SET LIKE EMAIL AND GITHUB REPO AND GOOGLE ANALYTICS SNIPPIT]
+
 ## We Want Your Feedback
 We encourage your feedback and suggestions on these documents.
