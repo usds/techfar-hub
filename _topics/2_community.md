@@ -16,15 +16,13 @@ Stack Exchange is a Question and Answer website that uses crowd sourcing to buil
 
 ### Let's Blog About IT
 
-<p><em>An interactive Blog will be Coming Soon!</em></p>
+An interactive Blog will be Coming Soon!
 
-<p>In the meantime these informative blogs will help keep you connected with the government digital service efforts:</p>
+In the meantime these informative blogs will help keep you connected with the government digital service efforts:
 
-<ul>
-  <li><a target="blank" href="https://digitalacquisitionpilot.wordpress.com/" target="blank">Digital Acquisition Pilot Blog</a></li>
-  <li><a target="blank" href="http://gsablogs.gsa.gov/gsablog/" target="blank">GSA Blog</a></li>
-  <li><a target="blank" href="https://18f.gsa.gov/blog/" target="blank">18F Digital Service Blog</a></li>
-  <li><a target="blank" href="https://medium.com/@USDigitalService" target="blank">U.S. Digital Service Blog</a></li>
-</ul>
+- [Digital Acquisition Pilot Blog](https://digitalacquisitionpilot.wordpress.com/)
+- [GSA Blog](http://gsablogs.gsa.gov/gsablog/)
+- [18F Digital Service Blog](https://18f.gsa.gov/blog/)
+- [U.S. Digital Service Blog](https://medium.com/@USDigitalService)
 
-<a class="usa-button-big" type="button" href="{{ site.baseurl }}/build">Next: Do IT</a>
+<a class="usa-button-big" type="button" href="{{ site.baseurl }}/do-it">Next: Do IT</a>
