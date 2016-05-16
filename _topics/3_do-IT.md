@@ -22,7 +22,7 @@ Click [run the plays](https://playbook-in-action.apps.cloud.gov) to get started 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a>
 
 ### Sources Sought Tool
-Once you have determined what it is you need, you need to know where to get. The Sources Sought tool is a Google form. If your agency allows you to use Google products, simply make a copy and send it out or post it with your RFI. If you do not have access to Google products you can use the Word version under the template section at the bottom of this page.
+Once you have determined what it is you need, you need to know where to get it. The Sources Sought tool is a Google form. If your agency allows you to use Google products, simply make a copy and send it out or post it with your RFI. If you do not have access to Google products you can use the Word version under the template section at the bottom of this page.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://docs.google.com/forms/d/1BGKTfoG8rRD4i5Qh-LOO22T31QS3BOkidVCyQzEhtOA/edit?usp=sharing">Find Sources</a>
 
