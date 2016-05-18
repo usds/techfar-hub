@@ -37,7 +37,7 @@ This [guide created by 18F](https://pages.18f.gov/contracting-cookbook/) provide
 - [Statement of Objectives Template](/assets/files/DigitalServiceSOO.docx)
 - [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/files/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
 - UX Contract Provisions -- coming soon
-- [Market Research: Sources SOught Tool] (/assests/files/TODO)
+- [Market Research: Sources Sought Tool] (/assests/files/TODO)
 
 ## Samples
 - [Request For Quotes System Modernization Sample](/assets/files/Agile%20Task%20Order%20Example.docx)
