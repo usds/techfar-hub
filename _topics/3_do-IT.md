@@ -32,11 +32,6 @@ This [guide created by 18F](https://pages.18f.gov/contracting-cookbook/) provide
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
-## 18F Method Cards
-18F created [method cards](https://methods.18f.gov/) to add rigor and structure to agile development, build a shared vocabulary for each method among 18F staff and partner agencies, and to give less experienced or new researchers a gateway into well-documented and proven research methods, supported by other 18F team members.
-
-<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://methods.18f.gov/">See the 18F Method Cards</a>
-
 ## Templates
 
 - [Statement of Objectives Template](/assets/files/DigitalServiceSOO.docx)
