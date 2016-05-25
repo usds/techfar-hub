@@ -11,13 +11,13 @@ Guidance and Discussion are crucial to success in understanding what to implemen
 
 ### Estimation Tool
 
-It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator) can help build an Independent Government Cost Estimate (IGCE) for Agile Development services.
+It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator){:target="_blank"} can help build an Independent Government Cost Estimate (IGCE) for Agile Development services.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
 
 ### Requirement Tools
 
-Click [run the plays](https://playbook-in-action.apps.cloud.gov) to get started creating a Statement of Objective based on the [Digital Service Playbook](https://playbook.cio.gov) This is still an alpha version so feedback is appreciated.
+Click [run the plays](https://playbook-in-action.apps.cloud.gov){:target="_blank"} to get started creating a Statement of Objective based on the [Digital Service Playbook](https://playbook.cio.gov){:target="_blank"} This is still an alpha version so feedback is appreciated.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://playbook-in-action.apps.cloud.gov">Run the Plays</a>
 
@@ -28,27 +28,27 @@ Once you have determined what it is you need, you need to know where to get it. 
 
 ## Digital Contracting Cookbook
 
-This [guide created by 18F](https://pages.18f.gov/contracting-cookbook/) provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged.
+This [guide created by 18F](https://pages.18f.gov/contracting-cookbook/){:target="_blank"} provides information and suggestions about how to acquire digital services. This is an open source product so contributions are encouraged.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
 ## Templates
 
-- [Statement of Objectives Template](/assets/files/DigitalServiceSOO.docx)
-- [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/files/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
+- [Statement of Objectives Template](/assets/files/DigitalServiceSOO.docx){:target="_blank"}
+- [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/files/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx){:target="_blank"}
 - UX Contract Provisions -- coming soon
-- [Market Research: Sources Sought Tool] (/assets/files/Sources Sought Notice.docx)
+- [Market Research: Sources Sought Tool] (/assets/files/Sources Sought Notice.docx){:target="_blank"}
 
 ## Samples
-- [Request For Quotes System Modernization Sample](/assets/files/Agile%20Task%20Order%20Example.docx)
-- [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/files/CRMTaskOrder%20Sample%20DRAFT.docx)
+- [Request For Quotes System Modernization Sample](/assets/files/Agile%20Task%20Order%20Example.docx){:target="_blank"}
+- [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/files/CRMTaskOrder%20Sample%20DRAFT.docx){:target="_blank"}
 
 ## Vehicles
 
 Government-wide or Agency specific vehicles that specifically support digital service procurements.
 
-- [SalesForce Governmentwide BPA](http://www.gsa.gov/portal/content/120966)
-- [18F Agile BPA – Alpha Version](https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/)
+- [SalesForce Governmentwide BPA](http://www.gsa.gov/portal/content/120966){:target="_blank"}
+- [18F Agile BPA – Alpha Version](https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/){:target="_blank"}
 
 <a class="usa-button-big" type="button" href="/contribute">Next: Contribute</a>
 
