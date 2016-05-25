@@ -2,8 +2,7 @@
 title: TechFAR Hub
 email: techfarhub@omb.eop.gov
 description: > # this means to ignore newlines until "baseurl:"
-The TechFAR Hub provides resources to apply industry best 
-practices to the world of Digital Service Acquisition across the U.S. federal government
+The TechFAR Hub provides resources to apply industry best practices to the world of Digital Service Acquisition across the U.S. federal government
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://techfarhub.cio.gov" # the base hostname & protocol for your site
 
