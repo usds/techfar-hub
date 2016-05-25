@@ -94,4 +94,4 @@ Now that you have had an opportunity to familiarize yourself with the fundamenta
 - [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/){:target="_blank"}
 - [Innovation is a Contract Sport](/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf){:target="_blank"}
 
-<a class="usa-button-big" type="button" href="{{ site.baseurl }}/discuss-it">Next: Discuss IT</a>    
+<a class="usa-button" type="button" href="{{ site.baseurl }}/discuss-it">Next: Discuss IT</a>    
