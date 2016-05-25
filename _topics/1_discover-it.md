@@ -90,7 +90,7 @@ Listen to Mollie Ruskin and Julia Elman explain how the US Web Design Standards 
 
 Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of __Digital Service Acquisitions__ it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. **You are not alone;** select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
 
-- [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf"){:target="_blank"}
+- [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf){:target="_blank"}
 - [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/){:target="_blank"}
 - [Innovation is a Contract Sport](/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf){:target="_blank"}
 
