@@ -50,5 +50,5 @@ Government-wide or Agency specific vehicles that specifically support digital se
 - [SalesForce Governmentwide BPA](http://www.gsa.gov/portal/content/120966){:target="_blank"}
 - [18F Agile BPA – Alpha Version](https://18f.gsa.gov/2015/08/28/announcing-the-agile-BPA-awards/){:target="_blank"}
 
-<a class="usa-button-big" type="button" href="/contribute">Next: Contribute</a>
+<a class="usa-button" type="button" href="/contribute">Next: Contribute</a>
 
