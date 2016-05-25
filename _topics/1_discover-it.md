@@ -24,8 +24,8 @@ Before embarking on an acquisition you should become familiar with the guiding g
 
 Specialized videos and online courses are great resources for building your skills and discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions.
 
-- [Agile Acquisition 101](https://www.fai.gov/media_library/items/show/81/)
-- [AGL Academy](http://www.agilegovleaders.org/academy/)
+- [Agile Acquisition 101](https://www.fai.gov/media_library/items/show/81/){:target="_blank"}
+- [AGL Academy](http://www.agilegovleaders.org/academy/){:target="_blank"}
 
 ### Listen to a Podcast
 
@@ -90,8 +90,8 @@ Listen to Mollie Ruskin and Julia Elman explain how the US Web Design Standards 
 
 Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of __Digital Service Acquisitions__ it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. **You are not alone;** select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
 
-- [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf")
-- [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/)
-- [Innovation is a Contract Sport](/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf)
+- [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf"){:target="_blank"}
+- [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/){:target="_blank"}
+- [Innovation is a Contract Sport](/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-2016%2002%2006.pdf){:target="_blank"}
 
 <a class="usa-button-big" type="button" href="{{ site.baseurl }}/discuss-it">Next: Discuss IT</a>    
