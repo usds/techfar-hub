@@ -13,7 +13,7 @@ Guidance and Discussion are crucial to success in understanding what to implemen
 
 It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator){:target="_blank"} can help build an Independent Government Cost Estimate (IGCE) for Agile Development services.
 
-<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
+<a class="usa-button-outline usa-button-active"  href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
 
 ### Requirement Tools
 
