@@ -9,7 +9,7 @@ The draft TechFAR Hub alpha was created during the winter of 2016 by the procure
 
 Help us make it better.
 
-<a class="usa-button-big" type="button" href="https://github.com/usds/techfar-hub">Contribute on GitHub</a>
+<a class="usa-button" type="button" href="https://github.com/usds/techfar-hub">Contribute on GitHub</a>
 
 Or drop us an email at techfarhub@omb.eop.gov
 
