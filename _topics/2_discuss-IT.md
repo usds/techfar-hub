@@ -27,4 +27,4 @@ In the meantime these informative blogs will help keep you connected with the go
 - [18F Digital Service Blog](https://18f.gsa.gov/blog/){:target="_blank"}
 - [U.S. Digital Service Blog](https://medium.com/@USDigitalService){:target="_blank"}
 
-<a class="usa-button" type="button" href="{{ site.baseurl }}/do-it">Next: Do IT</a>
+<a class="usa-button" type="button" href=""{{ site.baseurl }}/do-it">Next: Do IT</a>
