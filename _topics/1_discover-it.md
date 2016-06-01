@@ -34,20 +34,20 @@ Whether you are driving in your car or sitting at your desk, podcasts are a grea
 #### Behind the Buy
 
 Anne Rung, Administrator of OFPP, has created an incredible series of podcasts called "Behind the Buy." Click on one of the audio links below and relax as you listen to audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.
-    
+
 ##### Behind the Buy Podcast #1: Mark Naggar Interview
 
 <audio controls="controls">  
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" />  
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/030815Podcast.mp3" />  
-</audio> 
+</audio>
 
 ##### Behind the Buy #2: Driving Agile IT Procurement
 
 <audio controls="controls">  
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" />  
    <source src="https://www.fai.gov/drupal/sites/default/files/audio/041615Podcast.mp3" />  
-</audio> 
+</audio>
 
 ##### Behind the Buy #3: A Simple and Intuitive Approach for IT Procurement
 
@@ -79,7 +79,7 @@ Anne Rung, Administrator of OFPP, has created an incredible series of podcasts c
 
 #### U.S. Web Design Standards
 
-Listen to Mollie Ruskin and Julia Elman explain how the US Web Design Standards make government websites more consistent and easier to build.
+Listen to Mollie Ruskin and Julia Elman explain how the [US Web Standards](https://standards.usa.gov/){:target="_blank"} make government websites more consistent and easier to build.
 
 <audio controls="controls">  
    <source src="http://hwcdn.libsyn.com/p/3/4/c/34cc68d31f31177b/Responsive_Web_Design_64_-_U.S._Digital_Service.mp3?c_id=10372902&expiration=1455051806&hwt=a804010813361627dad194e66e8f7a39" />  
