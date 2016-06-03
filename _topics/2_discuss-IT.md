@@ -3,7 +3,7 @@ permalink: /discuss-it/
 id: 2
 layout: default
 title: Discuss IT
-lead: Spreading the word, telling about the successes and failures, and having a place to ask questions from experts is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend.
+lead: Spreading the word, telling about the successes and failures, and having a place to ask experts questions is an effective way to crowdsource common challenges. Digital communities thrive on the viral experience and the acquisition community should take advantage of this trend.
 ---
 
 ### Stack Exchange IT Procurement Discussion Board
@@ -12,7 +12,7 @@ Stack Exchange is a Question and Answer website that uses crowd sourcing to buil
 
 <a target="blank" href="http://area51.stackexchange.com/proposals/99212/government-digital-service-acquisition?referrer=iNHbk2AgvcMZB5sSV0mPNA2"><img src="http://area51.stackexchange.com/ads/proposal/99212.png" width="300" height="250" alt="Stack Exchange Q&A site proposal: Government Digital Service Acquisition" /></a>
 
-While we build up the Acquisition site you can check out the Open Data Stack Exchange in support of the [Data.gov initiative](https://www.data.gov/){:target="_blank"} which is another great rescrouce.
+While we build up the Acquisition site you can check out the Open Data Stack Exchange in support of the [Data.gov initiative](https://www.data.gov/){:target="_blank"}, which is another great resource.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="http://opendata.stackexchange.com/">Visit the Open Data Stack Exchange</a>
 
