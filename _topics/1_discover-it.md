@@ -7,10 +7,10 @@ title: Discover IT
 
 ## Getting Started
 
-Before embarking on an acquisition, review the Digital Services Playbook and TechFar Handbook to learn best practices. 
+Before embarking on an acquisition, review the Digital Services Playbook and TechFAR Handbook to learn best practices. 
 
 - [The Digital Services Playbook:](https://playbook.cio.gov){:target="_blank"} 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
-- [The TechFar Handbook:](https://playbook.cio.gov/techFAR){:target="_blank"} Resources on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector.
+- [The TechFAR Handbook:](https://playbook.cio.gov/techFAR){:target="_blank"} Resources on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector.
 
 
 ## Take Some Training
