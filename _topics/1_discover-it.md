@@ -5,35 +5,24 @@ layout: default
 title: Discover IT
 ---
 
-### Getting Started
+## Getting Started
 
-Before embarking on an acquisition you should become familiar with the guiding government best practices.
+Before embarking on an acquisition, review the Digital Services Playbook and TechFar Handbook to learn best practices. 
 
-<ul class="usa-button-list usa-unstyled-list">
-  <li>
-    <a class="usa-button usa-button-outline" href="https://playbook.cio.gov">Read the Playbook</a>
-  </li>
-  <li>
-    <a class="usa-button usa-button-outline" href="https://playbook.cio.gov/techFAR">Read the Handbook</a>
-  </li>
-</ul>
+- [The Digital Services Playbook:](https://playbook.cio.gov){:target="_blank"} 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
+- [The TechFar Handbook:](https://playbook.cio.gov/techFAR){:target="_blank"} Resources on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector. 
 
-### Take Some Training
 
-**Not all training has to be done in the classroom!**
+## Take Some Training
 
-Specialized videos and online courses are great resources for building your skills and discovering new acquisition strategies. The links below provide valuable lessons from acquisition experts that can help you better understand the opportunities, methods, and challenges around Digital Service Acquisitions.
+The links below include online courses and videos to help you learn best practices and build skills around new acquisition strategies. You’ll learn valuable lessons from acquisition experts that highlight the opportunities, methods, and challenges around digital services acquisition. 
 
-- [Agile Acquisition 101](https://www.fai.gov/media_library/items/show/81/){:target="_blank"}
-- [AGL Academy](http://www.agilegovleaders.org/academy/){:target="_blank"}
+- [Agile Acquisition 101:](https://www.fai.gov/media_library/items/show/81/){:target="_blank"} This video seminar features examples of where agile acquisition has been successfully implemented in the Federal Government
+- [AGL Academy:](http://www.agilegovleaders.org/academy/){:target="_blank"} A community effort by Agile government professionals to help educate and empower those who seek to implement Agile processes into their own agencies
 
-### Listen to a Podcast
+## Listen to a Podcast
 
-Whether you are driving in your car or sitting at your desk, podcasts are a great way to learn about Digital Service Acquisitions.
-
-#### Behind the Buy
-
-Anne Rung, Administrator of OFPP, has created an incredible series of podcasts called "Behind the Buy." Click on one of the audio links below and relax as you listen to audio stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies from the TechFAR and Digital Services Playbook to help their agency meet its mission.
+Behind the Buy is an informative podcast that sharesstories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies. 
     
 ##### Behind the Buy Podcast #1: Mark Naggar Interview
 
@@ -86,9 +75,9 @@ Listen to Mollie Ruskin and Julia Elman explain how the US Web Design Standards 
    <source src="http://hwcdn.libsyn.com/p/3/4/c/34cc68d31f31177b/Responsive_Web_Design_64_-_U.S._Digital_Service.mp3?c_id=10372902&expiration=1455051806&hwt=a804010813361627dad194e66e8f7a39" />  
 </audio>
 
-### Read a Case Study
+## Read a Case Study
 
-Now that you have had an opportunity to familiarize yourself with the fundamentals and best practices of __Digital Service Acquisitions__ it is time to roll up your sleeves and dig a little deeper. Case Studies are a great way to really immerse yourself in the experience. **You are not alone;** select a case study below and read first hand, the experience, struggles, and accomplishments of your fellow acquisition professionals as they took their unique journey.
+The following case studies move beyond fundamentals and provide first-hand experiences, struggles, and accomplishments of fellow acquisition professionals 
 
 - [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf){:target="_blank"}
 - [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/){:target="_blank"}
