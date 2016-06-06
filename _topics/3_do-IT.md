@@ -5,13 +5,13 @@ layout: default
 title: Do IT
 ---
 
-## How to Create A Digital Service Acquisition
+## How to Create a Digital Service Acquisition
 
-Guidance and Discussion are crucial to success in understanding what to implement in the digital service acquisition environment but when having to sit down and do it, the task may seem daunting. This section provides tools, samples, and templates that can help you get started.
+Implementing a digital service acquisition can seem daunting, but the following tools, samples, and templates provide a simple guide for getting started. 
 
 ### Estimation Tool
 
-It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator) can help build an Independent Government Cost Estimate (IGCE) for Agile Development services.
+It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator) helps build an Independent Government Cost Estimate (IGCE) for agile development services.
 
 <a class="usa-button-outline usa-button-active" type="button"  href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
 
