@@ -1541,8 +1541,10 @@ address,
 dfn {
   font-style: normal; }
 
-.usa-content p {
-  max-width: 53rem; }
+.usa-content p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  max-width: 53rem;
+}
+
 
 .usa-content-list {
   max-width: 53rem; }
