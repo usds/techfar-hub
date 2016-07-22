@@ -8,7 +8,7 @@ lead: Digital communities provide acquisition specialists with opportunities to 
 
 ## Stack Exchange Acquisition Discussion Board
 
-Stack Exchange is a question and answer website that uses crowd sourcing to build a community around specific topics. The U.S. Digital Service created a proposed topic on Stack Exchange to foster the public discussion of government digital service acquisition. We need to show interest before it will be made into an official site so it is currently in “Area 51” which is the Stack Exchange proposal development site. Help support the community by following and contributing to the discussion!
+Stack Exchange is a question and answer website that uses crowd sourcing to build a community around specific topics. The U.S. Digital Service created a proposed topic on Stack Exchange to foster the public discussion of government digital service acquisition. We need to show interest before it will be made into an official site so it is currently in “Area 51” which is the Stack Exchange proposal development site. Help support the community by following and contributing to the discussion! If you plan to contribute to the Stack Exchange, please follow any social media participation policies that your agency has established. 
 
 <a target="blank" href="http://area51.stackexchange.com/proposals/99212/government-digital-service-acquisition?referrer=iNHbk2AgvcMZB5sSV0mPNA2"><img src="http://area51.stackexchange.com/ads/proposal/99212.png" width="300" height="250" alt="Stack Exchange Q&A site proposal: Government Digital Service Acquisition" /></a>
 
