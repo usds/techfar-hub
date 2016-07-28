@@ -81,7 +81,7 @@ The following case studies move beyond fundamentals and provide first-hand exper
 
 - [Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf){:target="_blank"}
 - [Case Study: Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/){:target="_blank"}
-- [Innovation is a Contract Sport](https://github.com/usds/techfar-hub/blob/master/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-%5B2016.02.06%5D%20(1).pdf){:target="_blank"}
+- [Innovation is a Contract Sport](techfar-hub/blob/master/assets/files/Innovation_is_a_Contract_Sport__Ways_that_agencies_can_achieve_innovative_outcomes_through_acquisitions-%5B2016.02.06%5D%20(1).pdf){:target="_blank"}
 - [Case Study: Agile Government and the General Services Administration (Integrated Award Environment)](http://www.agilegovleaders.org/case-studies/gsa/){:target="_blank"}
 
 
