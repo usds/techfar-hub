@@ -22,7 +22,7 @@ The links below include online courses and videos to help you learn best practic
 
 ## Listen to a Podcast
 
-Behind the Buy is an informative podcast that sharesstories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies. 
+Behind the Buy is an informative podcast that shares stories told by members of the Federal acquisition workforce who have successfully executed best practice IT contracting strategies. 
     
 ##### Behind the Buy Podcast #1: Mark Naggar Interview
 
