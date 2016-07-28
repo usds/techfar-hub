@@ -33,9 +33,15 @@ This [guide created by 18F](https://pages.18f.gov/contracting-cookbook/){:target
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://pages.18f.gov/contracting-cookbook/">View the Digital Contracting Cookbook</a>
 
 ## Templates
+
+- [Statement of Objectives Template](/assets/files/DigitalServiceSOO.docx)
+- [Agile Task Order FFP Independent Government Cost Estimate (IGCE) Template Example](/assets/files/Agile_Task_Order_IGCE_Example_-Sec_508_Remediated.docx)
 - [UX Contract Provisions](/assets/files/UX%20Contract%20Provisions.docx)
 - [Market Research: Sources Sought Tool](/assets/files/Sources%20Sought.docx)
 
+## Samples
+- [Request For Quotes System Modernization Sample](/assets/files/Agile%20Task%20Order%20Example.docx)
+- [Request For Quote Enterprise Collaboration and Customer Relationship Management Correspondence System Implementation](/assets/files/CRMTaskOrder%20Sample%20DRAFT.docx)
 
 ## Vehicles
 
