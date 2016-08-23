@@ -11,9 +11,9 @@ Implementing a digital service acquisition can seem daunting, but the following 
 
 ### Estimation Tool
 
-It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](https://acquisition-planning-beta.herokuapp.com/agile_estimator) helps build an Independent Government Cost Estimate (IGCE) for agile development services.
+It is important to have an estimate that aligns with your agile approach. The [Agile Team Estimator](/assets/files/agile_estimator823.xlsx) helps build an Independent Government Cost Estimate (IGCE) for agile development services.
 
-<a class="usa-button-outline usa-button-active" type="button"  href="https://acquisition-planning-beta.herokuapp.com/agile_estimator">Download the Agile Team Estimator</a>
+<a class="usa-button-outline usa-button-active" type="button"  href="/assets/files/agile_estimator823.xlsx">Download the Agile Team Estimator</a>
 
 ### Requirement Tools
 
