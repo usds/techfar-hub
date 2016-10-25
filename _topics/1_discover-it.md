@@ -12,11 +12,11 @@ Before embarking on an acquisition, review the Digital Services Playbook and Tec
 
 - [The Digital Services Playbook:](https://playbook.cio.gov){:target="_blank"} 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
 - [The TechFAR Handbook:](https://playbook.cio.gov/techFAR){:target="_blank"} Resources on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector.
-- Quick and Dirty Guide to Agile Project Management: This summary guide provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
-- [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/ CreateAnInspritingProductVisionF.pdf){:target="_blank"} The product vision is THE true north of a project. It is as the French say, the “raison d’etre” for a project. In other words, it is the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction and little chance of creating a useful working product that serves a useful purpose for the organization.
+- [Quick and Dirty Guide to Agile Project Management:](https://){:target="_blank"}This summary guide provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
+- [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf){:target="_blank"} The product vision is THE true north of a project. It is as the French say, the “raison d’etre” for a project. In other words, it is the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction and little chance of creating a useful working product that serves a useful purpose for the organization.
 
 ### Review to Do Business with the Federal Government
-- Doing Business with the Federal Government: Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. This guide is intended to walk through some of the initial processes required in an effort to reduce the time it takes to bring innovative digital service companies into the government marketplace.
+Doing Business with the Federal Government: Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. This guide is intended to walk through some of the initial processes required in an effort to reduce the time it takes to bring innovative digital service companies into the government marketplace.
 
 
 ## Take Some Training
