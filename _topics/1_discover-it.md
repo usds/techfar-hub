@@ -12,7 +12,7 @@ Before embarking on an acquisition, review the Digital Services Playbook and Tec
 
 - [The Digital Services Playbook:](https://playbook.cio.gov){:target="_blank"} 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
 - [The TechFAR Handbook:](https://playbook.cio.gov/techFAR){:target="_blank"} Resources on how to use contractors to support an iterative, customer-driven software development process, as is routinely done in the private sector.
-- [Quick and Dirty Guide to Agile Project Management:](https://){:target="_blank"}This summary guide provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
+- [Quick and Dirty Guide to Agile Project Management:](/assets/files/Quick%20and%20Dirty%20Skinny%20on%20Agile%20Software%20Development-I2.pdf){:target="_blank"}This summary guide provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
 - [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf){:target="_blank"} The product vision is THE true north of a project. It is as the French say, the “raison d’etre” for a project. In other words, it is the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction and little chance of creating a useful working product that serves a useful purpose for the organization.
 
 ### Review to Do Business with the Federal Government
