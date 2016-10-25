@@ -16,7 +16,7 @@ Before embarking on an acquisition, review the Digital Services Playbook and Tec
 - [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf){:target="_blank"} The product vision is THE true north of a project. It is as the French say, the “raison d’etre” for a project. In other words, it is the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction and little chance of creating a useful working product that serves a useful purpose for the organization.
 
 ### Review to Do Business with the Federal Government
-Doing Business with the Federal Government: Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. This guide is intended to walk through some of the initial processes required in an effort to reduce the time it takes to bring innovative digital service companies into the government marketplace.
+[Doing Business with the Federal Government:](https://techfarhub.cio.gov/assets/files/ContractorHowToGuide_I_1.pdf){:target="_blank"} Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. This guide is intended to walk through some of the initial processes required in an effort to reduce the time it takes to bring innovative digital service companies into the government marketplace.
 
 
 ## Take Some Training
