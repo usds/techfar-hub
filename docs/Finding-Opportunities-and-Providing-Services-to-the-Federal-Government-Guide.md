@@ -160,19 +160,19 @@ Finding partners who already hold a prime contracts is a common way for new comp
 ## Additional Resources
 
 **Small Business Administration**
- [https://www.sba.gov/contracting/getting-started-contractor/register-government-contracting](https://www.sba.gov/contracting/getting-started-contractor/register-government-contracting)
+[https://www.sba.gov/contracting/getting-started-contractor/register-government-contracting](https://www.sba.gov/contracting/getting-started-contractor/register-government-contracting)
 
 **Federal Agency Acquisition and Procurement Links**
- [https://oamp.od.nih.gov/acquisition-offices/contract-tool-box/federal-links](https://oamp.od.nih.gov/acquisition-offices/contract-tool-box/federal-links)
+[https://oamp.od.nih.gov/acquisition-offices/contract-tool-box/federal-links](https://oamp.od.nih.gov/acquisition-offices/contract-tool-box/federal-links)
 
 **Digital Services Playbook**
- [https://playbook.cio.gov](https://playbook.cio.gov)
+[https://playbook.cio.gov](https://playbook.cio.gov)
 
 **TechFAR**
- [https://playbook.cio.gov/techfar/](https://playbook.cio.gov/techfar/)
+[https://playbook.cio.gov/techfar/](https://playbook.cio.gov/techfar/)
 
 **18F**
- [https://18f.gsa.gov/](https://18f.gsa.gov/)
+[https://18f.gsa.gov/](https://18f.gsa.gov/)
 
 **United States Digital Service**
- [http://usds.gov](http://usds.gov)
+[http://usds.gov](http://usds.gov)
