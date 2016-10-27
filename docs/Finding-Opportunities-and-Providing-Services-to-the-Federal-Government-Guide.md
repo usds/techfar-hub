@@ -62,7 +62,7 @@ Companies with certain designations may also qualify for sub-classifications, su
 
 [https://www.sba.gov/contracting/government-contracting-programs/](https://www.sba.gov/contracting/government-contracting-programs/8a-business-development-program/about-8a-business-development-program)
 
-Women-owned small businesses can determine eligibility and register at Certify.sba.gov
+Women-owned small businesses can determine eligibility and register at [http://Certify.sba.gov/](http://Certify.sba.gov/)
 
 ## Finding opportunities
 
