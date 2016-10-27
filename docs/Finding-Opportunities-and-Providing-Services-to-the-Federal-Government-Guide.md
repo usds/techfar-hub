@@ -9,7 +9,9 @@ This guide is intended to walk through some of the initial processes required in
 ## How to register as a small business
 
 **STEP 1**
+
 Register for a Data Universal Number System, or as its more commonly known as, D-U-N-S number
+
 _10 minutes // 1-2 business days to approve // free_
 
 A D-U-N-S number, issued by Dun &amp; Bradstreet, is a unique code is used to identify your business and establish your business credit file.
@@ -29,7 +31,9 @@ Common NAICS codes for digital services include:
 [http://www.census.gov/eos/www/naics/](http://www.census.gov/eos/www/naics/)
 
 **STEP 3**
+
 Register your business with the System of Award Management (SAM)
+
 _1 hour // 4 days or less to approve // free_
 
 _Pre-requisites: D-U-N-S number; Tax ID number (TIN), NAICS Code(s)_
@@ -39,7 +43,7 @@ SAM is the system of record for vendors doing business with the federal governme
 https://www.sam.gov
 
 Instructional video on how to register:
- [https://www.youtube.com/watch?v=9VPGVYPvch4](https://www.youtube.com/watch?v=9VPGVYPvch4)
+[https://www.youtube.com/watch?v=9VPGVYPvch4](https://www.youtube.com/watch?v=9VPGVYPvch4)
 
 SAM is also a marketing tool for businesses which allows government agencies and contractors to search for your company based on your ability, size, location, experience, ownership and more.
 
