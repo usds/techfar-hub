@@ -12,4 +12,4 @@ Knowing how to start selling digital services to the federal government can be a
 
 <a class="usa-button" type="button" target="blank" href="https://techfarhub.cio.gov/assets/files/ContractorHowToGuide_I_1.pdf">Download It</a>
 
-To suggest edits to this guide please download the PDF, add comments, and email us the document at [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
+To suggest edits to this guide you can submit a pull request to the markdown file, download the PDF, or just e-mail us at  [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
