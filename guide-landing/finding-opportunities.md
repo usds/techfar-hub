@@ -1,19 +1,8 @@
 ---
- -permalink: /finding-opportunities/
- -layout: default
- -title: Finding Opportunities
- ----
- -
- -# Finding Opportunities and Providing Services to the Federal Government
- -
- -## About This Guide
- -
- -Knowing how to start selling digital services to the federal government can be a daunting task for even 
- -the most seasoned business owner.
- -
- -This guide is intended to walk through some of the initial processes required in an effort 
- -to reduce the time it takes to bring innovative digital service companies into the government marketplace.
- -
- -[Finding Opportunities and Providing Services to the Federal Government:]
- -(https://techfarhub.cio.gov/assets/files/ContractorHowToGuide_I_1.pdf){:target="_blank"} 
- -
+permalink: /opportunities/
+id: 1
+layout: default
+title: Finding Opportunities
+---
+
+Hello
