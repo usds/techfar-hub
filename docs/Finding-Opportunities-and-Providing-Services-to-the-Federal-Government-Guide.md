@@ -1,3 +1,11 @@
+---
+permalink: /Finding-Opportunities/
+id: 2
+layout: default
+title: Finding Opportunities
+---
+
+
 # Finding Opportunities and Providing Services to the Federal Government
 
 ## About This Guide
