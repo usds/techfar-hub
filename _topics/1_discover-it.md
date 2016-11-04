@@ -20,13 +20,13 @@ These Procurement Field Guides are intended to help participants in the governme
 
 These are living documents, not policy or procedure. We encourage crowdsourcing and contribution to these guides as the body of knowledge around this topic increases or becomes more refined. Each guide has a contribution link to our github repository that facilitates this process.  
 
-- [Finding Opportunities and Providing Services to the Federal Government:](https://techfarhub.cio.gov/discover-IT/opportunities)
+- [Finding Opportunities and Providing Services to the Federal Government](https://techfarhub.cio.gov/discover-IT/opportunities):
 A field guide to help innovative digital services companies begin the process of selling into the government marketplace.
 
-- [Quick and Dirty Guide to Agile Project Management:](https://techfarhub.cio.gov/assets/files/Quick and Dirty Skinny on Agile Software Development-I2.pdf)
+- [Quick and Dirty Guide to Agile Project Management](/discover-IT/agile_project_management/):
 This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
 
-- [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf)
+- [Create an Inspiring Product Vision](/discover-IT/vision/):
 This field guide is designed to help articulate your agency's product vision.
 
 ## Take Some Training
