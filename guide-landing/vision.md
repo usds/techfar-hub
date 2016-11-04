@@ -9,6 +9,6 @@ title: Field Guide
 
 This field guide is designed to help articulate your agency’s product vision.
 
-<a class="usa-button" type="button" target="blank" href="https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf">Download PDF</a>  <a class="usa-button" type="button" target="blank" https://github.com/usds/techfar-hub/blob/master/docs/Every-Project-Needs-An-Inspiring-Product-Vision.md">Edit It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/issues">Submit Issue</a>  <a class="usa-button" type="button" target="blank" href="mailto:techfarhub@omb.eop.gov">Email</a>
+<a class="usa-button" type="button" target="blank" href="https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf">Download PDF</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/docs/Every-Project-Needs-An-Inspiring-Product-Vision.md">Edit It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/issues">Submit Issue</a>  <a class="usa-button" type="button" target="blank" href="mailto:techfarhub@omb.eop.gov">Email</a>
 
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at  [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
