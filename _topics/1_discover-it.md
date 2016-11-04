@@ -16,13 +16,18 @@ Before embarking on an acquisition, review the Digital Services Playbook and Tec
 
 ### USDS Procurement Field Guides
 
-These Procurement Field Guides are intended to help participants in the government acquisition community with general knowledge, tips, or common practice methods that will help implement digital service strategies. These are living documents, not policy or procedure. We encourage crowdsourcing and contribution to these guides as the body of knowledge around this topic increases or becomes more refined. Each guide has a contribution link to our github repository that facilitates this process.  
+These Procurement Field Guides are intended to help participants in the government acquisition community with general knowledge, tips, or common practice methods that will help implement digital service strategies. 
 
-- [Finding Opportunities and Providing Services to the Federal Government:](https://techfarhub.cio.gov/discover-IT/opportunities/)  Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. This guide is intended to walk through some of the initial processes required in an effort to reduce the time it takes to bring innovative digital service companies into the government marketplace.
+These are living documents, not policy or procedure. We encourage crowdsourcing and contribution to these guides as the body of knowledge around this topic increases or becomes more refined. Each guide has a contribution link to our github repository that facilitates this process.  
 
-- [Quick and Dirty Guide to Agile Project Management:](https://techfarhub.cio.gov/assets/files/Quick and Dirty Skinny on Agile Software Development-I2.pdf){:target="_blank"}This summary guide provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
+- [Finding Opportunities and Providing Services to the Federal Government:](https://techfarhub.cio.gov/discover-IT/opportunities)
+A field guide to help innovative digital services companies begin the process of selling into the government marketplace.
 
-- [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf){:target="_blank"} The product vision is THE true north of a project. It is as the French say, the “raison d’etre” for a project. In other words, it is the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction and little chance of creating a useful working product that serves a useful purpose for the organization.
+- [Quick and Dirty Guide to Agile Project Management:](https://techfarhub.cio.gov/assets/files/Quick and Dirty Skinny on Agile Software Development-I2.pdf)
+This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
+
+- [Create an Inspiring Product Vision:](https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf)
+This field guide is designed to help articulate your agency's product vision.
 
 ## Take Some Training
 
