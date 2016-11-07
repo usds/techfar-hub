@@ -18,6 +18,9 @@ This guide is intended to walk through some of the initial processes required in
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at  [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
 
 <style> img[alt=CoverPage] {
-  max-width:  50px;
-  max-height: 50px;
+  max-width:  300px;
+  max-height: 300px;
+  float: left;
+  margin: 0px 15px 15px 0px;
+  
 } </style>
