@@ -15,9 +15,11 @@ Without a product vision, there is no direction and little chance of creating a 
 <br/>  <br/>
 <a class="usa-button" type="button" href="https://techfarhub.cio.gov/assets/files/CreateAnInspritingProductVisionF.pdf">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/docs/Every-Project-Needs-An-Inspiring-Product-Vision.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
 
-To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us.
+To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
 
-<br/><br/>
+[**Back to Field Guides**]( https://techfarhub.cio.gov/discover-IT/#fieldGuides)
+
+
 
 <style> img[alt=ProductVisionCover] {
   max-width:  250px;
