@@ -8,15 +8,10 @@ title: Field Guide
 ## Quick and Dirty Guide to Agile Project Management
 
 ![QuickSkinnyCover](https://github.com/usds/techfar-hub/blob/master/assets/img/QuickSkinnyCover.jpg?raw=true)
-This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects. In this guide you will learn more about the agile principles:
+This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects. In this guide you will learn more about:
 
 *	Agile versus Traditional Contract Implementation
-*	Focuses on individuals versus processes and tools
-*	Working software/code versus documentation
-*	Customer collaboration versus contract negotiation
-*	Ability to respond quickly to change versus sticking to a project plan
-
-
+*	Ability to respond quickly to change versus sticking to a project plan ...
 
 
 <a class="usa-button" type="button" href="https://techfarhub.cio.gov/assets/files/Quick%20and%20Dirty%20Skinny%20on%20Agile%20Software%20Development-I2.pdf">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/docs/Quick-and-Dirty-Skinny-on-Agile-Software-Development.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
