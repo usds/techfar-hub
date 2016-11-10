@@ -8,7 +8,7 @@ title: Field Guide
 ## Create an Inspiring Product Vision
 
 ![ProductVisionCover](https://github.com/usds/techfar-hub/blob/master/assets/img/productVisionCover.jpg?raw=true)
-This field guide is designed to help articulate your agency’s product vision. The product vision is THE true north.  It is as the French say, the “raison d’etre” for a project.  In other words, it is the reason why the entire project to create a product(s) exists.  
+This field guide is designed to help articulate your agency’s product vision. In order to have an inspiring product vision, project teams must be clear on the problem that they want to solve!  Once they are clear they can use the product vision as THE true north to guide the project.  It is as the French say, the “raison d’etre” for a project.  It is the reason why the entire project exists.  
 
 Without a product vision, there is no direction and little chance of creating a useful working product.
 
