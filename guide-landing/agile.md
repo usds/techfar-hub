@@ -7,7 +7,7 @@ title: Field Guide
 
 ## Quick and Dirty Guide to Agile Project Management
 
-![ QuickSkinnyCover](https://github.com/usds/techfar-hub/blob/master/assets/img/QuickSkinnyCover.jpg)
+![QuickSkinnyCover](https://github.com/usds/techfar-hub/blob/master/assets/img/QuickSkinnyCover.jpg)
 This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
 
 <br/>  <br/>
