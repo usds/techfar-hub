@@ -7,7 +7,7 @@ title: Field Guide
 
 ## Create an Inspiring Product Vision
 
-![ProductVisionCover]( https://github.com/usds/techfar-hub/blob/master/assets/img/productVisionCover.jpg)
+![ProductVisionCover](https://github.com/usds/techfar-hub/blob/master/assets/img/productVisionCover.jpg)
 This field guide is designed to help articulate your agency’s product vision. The product vision is THE true north or, as the French say, the “raison d’etre” for a project. It should be the reason why the entire project to create a product(s) exists. Without a product vision, there is no direction
 
 <br/>  <br/>
@@ -15,7 +15,7 @@ This field guide is designed to help articulate your agency’s product vision. 
 
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us.
 
-<style> img[alt= ProductVisionCover] {
+<style> img[alt=ProductVisionCover] {
   max-width:  250px;
   max-height: 250px;
   float: left;
