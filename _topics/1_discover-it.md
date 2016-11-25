@@ -22,10 +22,8 @@ These are living documents, not policy or procedure. We encourage crowdsourcing 
 
 - [Finding Opportunities and Providing Services to the Federal Government](https://techfarhub.cio.gov/discover-IT/opportunities):
 A field guide to help innovative digital services companies begin the process of selling into the government marketplace.
-
 - [Quick and Dirty Guide to Agile Project Management](/discover-IT/agile_project_management/):
 This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
-
 - [Create an Inspiring Product Vision](/discover-IT/vision/):
 This field guide is designed to help articulate your agency's product vision.
 
@@ -35,6 +33,8 @@ The links below include online courses and videos to help you learn best practic
 
 - [Agile Acquisition 101:](https://www.fai.gov/media_library/items/show/81/){:target="_blank"} This video seminar features examples of where agile acquisition has been successfully implemented in the Federal Government
 - [AGL Academy:](http://www.agilegovleaders.org/academy/){:target="_blank"} A community effort by Agile government professionals to help educate and empower those who seek to implement Agile processes into their own agencies
+-[Digital IT Acquisition Professional Training:](https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy){:target="_blank"} The USDS and the Office of Federal Procurement Policy (OFPP) have partnered to develop a digital IT acquisition professional community (DITAP). The first component of this community is a training and certification program for contracting officers.  Use the link for more information on the program.
+
 
 ## Listen to a Podcast
 
