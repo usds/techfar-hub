@@ -27,13 +27,7 @@ Once you have determined what it is you need, you need to know where to get it. 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://docs.google.com/forms/d/1BGKTfoG8rRD4i5Qh-LOO22T31QS3BOkidVCyQzEhtOA/edit?usp=sharing">Find Sources</a>
 
 ### Acquisition Innovation Advocates (AIA) Council
-The AIA consists of advocates identified from each agency subject to the [CFO Act of 1990](https://cfo.gov/about/){:target="_blank"}, as well as, an advocate from the Small Agency Council.  The council is tasked with meeting regularly to broaden awareness and foster cross-agency collaboration and innovation.  Over time, the Council will serve as a support structure to help advocates to work with their workforces to provide pathways to testing new and better ways of doing business. Among other things, council members:
-
-* Share the status of their IT-related, especially in relation to the acquisitions that govern them, and 
-* Exchange information with OMB's US Digital Service, Presidential Innovation Fellows, GSA’s 18F Consulting and other innovation communities regarding successes and challenges.
-
-For more information on the AIA in your agency who can advise on/assist with innovative digital services aquisitions, please contact the council coordinator: Ursula Nkwantabisa at 202-395-6811 OR 202-881-8254 OR <UNkwantabisa@omb.eop.gov>.
-
+The [AIA](https://github.com/usds/techfar-hub/blob/master/assets/files/AIA-March9Memo.pdf){:target="_blank"} consists of advocates identified from each agency subject to the [CFO Act of 1990](https://cfo.gov/about/){:target="_blank"}, as well as, an advocate from the Small Agency Council.  The council is tasked with meeting regularly to broaden awareness and foster cross-agency collaboration and innovation. Among other things, council members share the status of their IT-related activities, especially in relation to the acquisitions that govern them, and exchange information with OMB's US Digital Service, Presidential Innovation Fellows, GSA’s 18F Consulting and other innovation communities regarding successes and challenges. For more information on the AIA in your agency who can advise on/assist with innovative digital services aquisitions, please contact the council coordinator: Ursula Nkwantabisa at 202-395-6811 OR 202-881-8254 OR <UNkwantabisa@omb.eop.gov>.
 
 ## Digital Contracting Cookbook
 
