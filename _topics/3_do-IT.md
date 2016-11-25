@@ -7,7 +7,7 @@ title: Do IT
 
 ## How to Create a Digital Service Acquisition
 
-Implementing a digital service acquisition can seem daunting, but the following tools, samples, and templates provide a simple guide for getting started. 
+Implementing a digital service acquisition can seem daunting, but the following tools, samples, templates, and resources provide a simple guide for getting started. 
 
 ### Estimation Tool
 
@@ -25,6 +25,15 @@ Click [Build a Solicitation](https://agile-solicitation-builder.apps.cloud.gov){
 Once you have determined what it is you need, you need to know where to get it. The Sources Sought tool is a Google form. If your agency allows you to use Google products, simply make a copy and send it out or post it with your RFI. If you do not have access to Google products you can use the Word version under the template section at the bottom of this page.
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://docs.google.com/forms/d/1BGKTfoG8rRD4i5Qh-LOO22T31QS3BOkidVCyQzEhtOA/edit?usp=sharing">Find Sources</a>
+
+### Acquisition Innovation Advocates (AIA) Council
+The AIA consists of advocates identified from each agency subject to the [CFO Act of 1990](https://cfo.gov/about/){:target="_blank"}, as well as, an advocate from the Small Agency Council.  The council is tasked with meeting regularly to broaden awareness and foster cross-agency collaboration and innovation.  Over time, the Council will serve as a support structure to help advocates to work with their workforces to provide pathways to testing new and better ways of doing business. Among other things, council members:
+
+* Share the status of their IT-related, especially in relation to the acquisitions that govern them, and 
+* Exchange information with OMB's US Digital Service, Presidential Innovation Fellows, GSA’s 18F Consulting and other innovation communities regarding successes and challenges.
+
+For more information on the AIA in your agency who can advise on/assist with innovative digital services aquisitions, please contact the council coordinator: Ursula Nkwantabisa 202-395-6811 OR 202-881-8254 | [UNkwantabisa@omb.eop.gov](mailto:UNkwantabisa@omb.eop.gov).
+
 
 ## Digital Contracting Cookbook
 
