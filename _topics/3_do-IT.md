@@ -32,7 +32,7 @@ The AIA consists of advocates identified from each agency subject to the [CFO Ac
 * Share the status of their IT-related, especially in relation to the acquisitions that govern them, and 
 * Exchange information with OMB's US Digital Service, Presidential Innovation Fellows, GSA’s 18F Consulting and other innovation communities regarding successes and challenges.
 
-For more information on the AIA in your agency who can advise on/assist with innovative digital services aquisitions, please contact the council coordinator: Ursula Nkwantabisa 202-395-6811 OR 202-881-8254 | [UNkwantabisa@omb.eop.gov](mailto:UNkwantabisa@omb.eop.gov).
+For more information on the AIA in your agency who can advise on/assist with innovative digital services aquisitions, please contact the council coordinator: Ursula Nkwantabisa at 202-395-6811 OR 202-881-8254 OR [UNkwantabisa@omb.eop.gov](a href="mailto:UNkwantabisa@omb.eop.gov").
 
 
 ## Digital Contracting Cookbook
