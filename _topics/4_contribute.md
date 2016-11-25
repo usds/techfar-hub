@@ -11,5 +11,5 @@ If you have case studies, tools, or other resources that you think should be on 
 
 <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/issues">Contribute on GitHub</a>
 
-Or drop us an email at techfarhub@omb.eop.gov
+Or drop us an email at <techfarhub@omb.eop.gov>
 
