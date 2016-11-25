@@ -33,7 +33,7 @@ The links below include online courses and videos to help you learn best practic
 
 - [Agile Acquisition 101:](https://www.fai.gov/media_library/items/show/81/){:target="_blank"} This video seminar features examples of where agile acquisition has been successfully implemented in the Federal Government
 - [AGL Academy:](http://www.agilegovleaders.org/academy/){:target="_blank"} A community effort by Agile government professionals to help educate and empower those who seek to implement Agile processes into their own agencies
--[Digital IT Acquisition Professional Training:](https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy){:target="_blank"} The USDS and the Office of Federal Procurement Policy (OFPP) have partnered to develop a digital IT acquisition professional community (DITAP). The first component of this community is a training and certification program for contracting officers.  Use the link for more information on the program.
+- [Digital IT Acquisition Professional Training:](https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy){:target="_blank"} The USDS and the Office of Federal Procurement Policy (OFPP) have partnered to develop a digital IT acquisition professional community (DITAP). The first component of this community is a training and certification program for contracting officers.  Use the link for more information on the program.
 
 
 ## Listen to a Podcast
