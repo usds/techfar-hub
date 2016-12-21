@@ -31,4 +31,7 @@ To suggest edits to this guide you can submit a pull request to the markdown fil
   max-height: 250px;
   float: left;
   margin: 0px 15px 15px 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #112e51;
   } </style>
