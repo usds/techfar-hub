@@ -26,6 +26,8 @@ A field guide to help innovative digital services companies begin the process of
 This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
 - [Create an Inspiring Product Vision](/discover-IT/vision/):
 This field guide is designed to help articulate your agency's product vision.
+- [Guide on How to Use an 8(a) Company for Your Digital Service Needs](/discover-IT/how_to_8a/):
+This How-To Guide provides information on how to take advantage of an SBA waiver for agency's looking to use digital services on a small scale before implementing agency-wide.
 
 ## Take Some Training
 
