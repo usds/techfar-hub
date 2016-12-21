@@ -26,6 +26,8 @@ A field guide to help innovative digital services companies begin the process of
 This summary provides information on the key tenants of agile project managment and explains how it can be used to manage digital services projects.
 - [Create an Inspiring Product Vision](/discover-IT/vision/):
 This field guide is designed to help articulate your agency's product vision.
+- [Guide on How to Use an 8(a) Company for Your Digital Service Needs](/discover-IT/how_to_8a/):
+This How-To Guide provides information on how to take advantage of an SBA waiver for agency's looking to use digital services on a small scale before implementing agency-wide.
 
 ## Take Some Training
 
@@ -33,7 +35,7 @@ The links below include online courses and videos to help you learn best practic
 
 - [Agile Acquisition 101:](https://www.fai.gov/media_library/items/show/81/){:target="_blank"} This video seminar features examples of where agile acquisition has been successfully implemented in the Federal Government
 - [AGL Academy:](http://www.agilegovleaders.org/academy/){:target="_blank"} A community effort by Agile government professionals to help educate and empower those who seek to implement Agile processes into their own agencies
-- [Digital IT Acquisition Professional Training:](https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy){:target="_blank"} The USDS and the Office of Federal Procurement Policy (OFPP) have partnered to develop a digital IT acquisition professional community (DITAP). The first component of this community is a training and certification program for contracting officers.
+- [Digital IT Acquisition Professional Training:](https://medium.com/@USDigitalService/congratulating-our-challenge-gov-winners-f6ec5deefbd6#.icjzextcy){:target="_blank"} The USDS and the Office of Federal Procurement Policy (OFPP) have partnered to develop a digital IT acquisition professional community (DITAP). The first component of this community is a training and certification program for contracting officers, which is currently in its second round of piloting this effort. The goal of this effort is that this development program will be offered in multiple agencies, by various training providers, or by the Federal Acquisition Institute. There is currently no open course at this time, but check back to see more information about upcoming offerings of this program. 
 
 
 ## Listen to a Podcast
