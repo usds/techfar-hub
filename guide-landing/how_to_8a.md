@@ -18,9 +18,7 @@ The Small Business Administration (SBA) and United States Digital Service (USDS)
 4.	Reduce administration for the SBA and agencies by providing an easy on-ramp to and release from the 8(a) program for projects within scope
 
 
-<br/>
-
-<a class="usa-button" type="button" href="https://techfarhub.cio.gov/assets/files/USDS-HowTo8a.pdf">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/sba-docs/how_to_8a.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
+<a class="usa-button" type="button" href="https://techfarhub.cio.gov/assets/files/USDS-HowTo8a.pdf" target="_blank">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/sba-docs/how_to_8a.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
 
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
 
