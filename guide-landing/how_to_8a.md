@@ -20,7 +20,7 @@ The Small Business Administration (SBA) and United States Digital Service (USDS)
 
 <br/>
 
-<a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/docs/USDS-HowTo8a.pdf">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/docs/Quick-and-Dirty-Skinny-on-Agile-Software-Development.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
+<a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/docs/USDS-HowTo8a.pdf">Download PDF</a>  <a class="usa-button" type="button" href="https://github.com/usds/techfar-hub/blob/master/sba-docs/how_to_8a.md">Read It</a>  <a class="usa-button" type="button" target="blank" href="https://github.com/usds/techfar-hub/blob/master/README.md">Help Improve This Content</a>
 
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
 
