@@ -15,19 +15,19 @@ The use of SBA’s 8(a) program can solve many of these problems.  The 8(a) prog
 * [Memo: 8(a) Program Digital Service Initiative](https://techfarhub.cio.gov/assets/files/8aSBA_USDSMemo.pdf)
 * [Guide On How To Use An 8(A) Company For Your Digital Service Needs](https://techfarhub.cio.gov/discover-IT/how_to_8a/)
 
-### Templates
+## Templates
 
-#### Learn the Process
+### Learn the Process
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-LearnTheProcessSOO.docx)
   * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/learn_the_processSOO.md)
   * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md) 
 
-#### Select the Tech
+### Select the Tech
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-SelectYourTechSOO.docx)
   * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/select_your_tech.md)
   * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md) 
 
-#### Build the MVP
+### Build the MVP
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-BuildAnMVP_SOO.docx)
   * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/build_MVP.md)
   * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md) 
