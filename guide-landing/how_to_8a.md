@@ -8,6 +8,8 @@ title: Field Guide
 ## GUIDE ON HOW TO USE AN 8(a) COMPANY FOR YOUR DIGITAL SERVICE NEEDS
 
 ![Howto8aCover](https://github.com/usds/techfar-hub/blob/master/assets/img/HowtoGuideCover.jpg?raw=true)
+This guide offers insight into how to participate in the [8(a) Digital Service Initiative](https://techfarhub.cio.gov/do-IT/SBA_8a/) spearheaded by USDS and SBA.
+
 Agencies are under pressure yet willing to utilize digital services.  Program offices are frequently frustrated by long procurement lead-times, competition requirements, and lack of adequate coaching around new implementation methods, which slows down the successful adoption of modern technology at agencies.  The use of SBA’s 8(a) program can solve many of these problems.  
 
 The Small Business Administration (SBA) and United States Digital Service (USDS) partnered together to provide increased ability to:
