@@ -1,3 +1,10 @@
+---
+permalink: /do-IT/SBA_8a/
+id: 1
+layout: default
+title: Tools
+---
+
 # 8(a) Program Digital Service Initiative 
 
 Agencies are under pressure yet willing to utilize digital services.  Program offices are frequently frustrated by long procurement lead-times, competition requirements, and lack of adequate coaching around new implementation methods, which slows down the successful adoption of modern technology at agencies.  
