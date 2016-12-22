@@ -22,7 +22,7 @@ The Small Business Administration (SBA) and United States Digital Service (USDS)
 
 To suggest edits to this guide you can submit a pull request to the markdown file, submit a Github issue, or just e-mail us at [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov).
 
-[**Back to Field Guides**]( https://techfarhub.cio.gov/discover-IT/#fieldGuides) | **Back to 8(a) Digital Service Initiative**
+[**Back to Field Guides**](https://techfarhub.cio.gov/discover-IT/#fieldGuides) OR [**Back to 8(a) Digital Service Initiative**](https://techfarhub.cio.gov/do-IT/SBA_8a/)
 
 <style> img[alt=Howto8aCover] {
   max-width:  250px;
