@@ -22,15 +22,14 @@ The Small Business Administration (SBA) and United States Digital Service (USDS)
 
 #### Learn the Process
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-LearnTheProcessSOO.docx)
-  * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/learn_the_processSOO.md){:target="_blank"}
-  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md){:target="_blank"} 
-
+  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/sba-docs/learn_the_processSOO.md){:target="_blank"}
+ 
 #### Select the Tech
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-SelectYourTechSOO.docx)
-  * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/select_your_tech.md){:target="_blank"}
-  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md){:target="_blank"}
-
+  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/sba-docs/select_your_tech.md){:target="_blank"}
+  
 #### Build the MVP
   * [Download the Docx](https://techfarhub.cio.gov/assets/files/USDS-BuildAnMVP_SOO.docx)
-  * [Read It](https://github.com/usds/techfar-hub/blob/master/sba-docs/build_MVP.md){:target="_blank"}
-  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/README.md){:target="_blank"} 
+  * [Help Improve This Content](https://github.com/usds/techfar-hub/blob/master/sba-docs/build_MVP.md){:target="_blank"}
+
+**[Learn more about using Github to improve content](https://github.com/usds/techfar-hub/blob/master/README.md){:target="_blank"}**
