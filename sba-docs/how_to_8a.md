@@ -58,7 +58,7 @@ As the purpose of this initiative is to help agency’s get started with digital
   
   c.	Agency offering (FAR 19.804-2)
 
-     1.	Include the 8(a) Digital Services Memo dated ____ __, 2016 and indicate that your award is within scope of the 8(a) Digital Service Initiative.
+     1.	Include the 8(a) Digital Services Memo dated December 20, 2016 and indicate that your award is within scope of the 8(a) Digital Service Initiative.
     
   d.	SBA acceptance (FAR 19.804-3)
   
@@ -72,7 +72,7 @@ As the purpose of this initiative is to help agency’s get started with digital
   
      1. Preparing the contracts – contract clauses (FAR 19.811-3)
 
-4.	Send the memo, dated ____ __, 2016 to your agency’s Office of Small and Disadvantaged Business Utilization (OSDBU) office.  The OSDBU should also receive the RFP, or other associated solicitation or contract documents, with at least one of the three SOO’s incorporated. This ensures that the OSDBU is aware of your award’s connection to the memo.
+4.	Send the memo, dated December 20, 2016 to your agency’s Office of Small and Disadvantaged Business Utilization (OSDBU) office.  The OSDBU should also receive the RFP, or other associated solicitation or contract documents, with at least one of the three SOO’s incorporated. This ensures that the OSDBU is aware of your award’s connection to the memo.
 5.	At the completion of the contract, agencies can keep any follow-on work within the 8(a) program or switch to another contracting method or vehicle without getting SBA approval for removal from the program.
 
 ____
