@@ -1,5 +1,6 @@
 # STATEMENT OF OBJECTIVES: DIGITAL MINIMUM VIABLE PRODUCT (MVP)
 *v.1 Dec 2016*
+*[Read the Guide on How to Use an 8(a) for Your Digital Service Needs](/sba-docs/how_to_8a.md)* 
 
 ## OBJECTIVE
 
