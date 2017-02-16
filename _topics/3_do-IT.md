@@ -17,9 +17,9 @@ It is important to have an estimate that aligns with your agile approach. The [A
 
 ### Requirement Tools
 
-Click [Build a Solicitation](https://agile-solicitation-builder.apps.cloud.gov){:target="_blank"} to get started creating a Request for Quote (RFQ) based on the [Digital Service Playbook](https://playbook.cio.gov){:target="_blank"} This is still an alpha version so feedback is appreciated. All documents should be approved by a warranted contracting officer and in consultation with your legal counsel as required.
+Click [Build a Solicitation](https://agile-solicitation-builder.app.cloud.gov){:target="_blank"} to get started creating a Request for Quote (RFQ) based on the [Digital Service Playbook](https://playbook.cio.gov){:target="_blank"} This is still an alpha version so feedback is appreciated. All documents should be approved by a warranted contracting officer and in consultation with your legal counsel as required.
 
-<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://agile-solicitation-builder.apps.cloud.gov">Build a Solicitation</a>
+<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://agile-solicitation-builder.app.cloud.gov">Build a Solicitation</a>
 
 ### Sources Sought Tool
 Once you have determined what it is you need, you need to know where to get it. The Sources Sought tool is a Google form. If your agency allows you to use Google products, simply make a copy and send it out or post it with your RFI. If you do not have access to Google products you can use the Word version under the template section at the bottom of this page.
