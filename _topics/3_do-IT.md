@@ -21,10 +21,10 @@ Click [Build a Solicitation](https://agile-solicitation-builder.app.cloud.gov){:
 
 <a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://agile-solicitation-builder.app.cloud.gov">Build a Solicitation</a>
 
-### Sources Sought Tool
+[//]: # (### Sources Sought Tool
 Once you have determined what it is you need, you need to know where to get it. The Sources Sought tool is a Google form. If your agency allows you to use Google products, simply make a copy and send it out or post it with your RFI. If you do not have access to Google products you can use the Word version under the template section at the bottom of this page.
 
-<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://docs.google.com/forms/d/1BGKTfoG8rRD4i5Qh-LOO22T31QS3BOkidVCyQzEhtOA/edit?usp=sharing">Find Sources</a>
+<a class="usa-button-outline usa-button-active" type="button" target="blank" href="https://docs.google.com/forms/d/1BGKTfoG8rRD4i5Qh-LOO22T31QS3BOkidVCyQzEhtOA/edit?usp=sharing">Find Sources</a>)
 
 ### 8(a) Program Digital Service Initiative 
 The U.S. Small Business Administration (SBA), in collaboration with the U.S. Digital Service, is excited to announce a new tool available for use by Federal Contracting Officers to enable expeditious procurement of digital services.  This initiative allows agencies to achieve cultural change to implement Digital Service Playbook and TechFAR strategies with lowered risk, try out modern technology stacks, and begin iterative development with little to no procurement lead time.
