@@ -14,7 +14,7 @@ lead: Digital communities provide acquisition specialists with opportunities to 
 
 [//]: Another great resource to explore is the [Open Data Stack Exchange](https://www.data.gov/){:target="_blank"} in support of the Data.gov initiative.
 
-<a class="usa-button-outline usa-button-active" type="button" target="blank" href="http://opendata.stackexchange.com/">Visit the Open Data Stack Exchange</a>
+[//]:<a class="usa-button-outline usa-button-active" type="button" target="blank" href="http://opendata.stackexchange.com/">Visit the Open Data Stack Exchange</a>
 
 ## Let's Blog About IT
 
