@@ -20,6 +20,7 @@ lead: Digital communities provide acquisition specialists with opportunities to 
 
 Stay tuned! A dedicated digital service acquisition blog is in the works. In the meantime, these informative blogs will help keep you connected with the government digital service efforts:
 
+- [The Procuremenati: Working to Transform the Way that Government Buys IT](https://medium.com/the-u-s-digital-service/meet-the-procuremenati-usds-acquisition-experts-1e99346822b5#.b3dfkjtji){:target="_blank"}
 - [Digital Acquisition Pilot Blog](https://digitalacquisitionpilot.wordpress.com/){:target="_blank"}
 - [GSA Blog](http://gsablogs.gsa.gov/gsablog/){:target="_blank"}
 - [18F Digital Service Blog](https://18f.gsa.gov/blog/){:target="_blank"}
