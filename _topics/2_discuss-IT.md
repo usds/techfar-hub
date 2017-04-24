@@ -17,7 +17,7 @@ lead: Digital communities provide acquisition specialists with opportunities to 
 [//]:<a class="usa-button-outline usa-button-active" type="button" target="blank" href="http://opendata.stackexchange.com/">Visit the Open Data Stack Exchange</a>
 
 ## Acquisition Principles for Digital Service Procurements 
-<img src="http://area51.stackexchange.com/ads/proposal/99212.png" width="300" height="300" alt="Graphic with words Acquisition Principles for Digital Service Procurements" />
+<img src="assets/img/TechFarPrincipalsGraphic.png" width="300" height="300" alt="Graphic with words Acquisition Principles for Digital Service Procurements" />
 1. Emphasize project missions and challenges to attract the best vendor talent. Great digital service providers are often motivated by the magnitude of the problems they can solve when they work for the government. 
 2. Pay for results, not time. A working product is the ultimate metric of success.
 3. Don’t lock technical requirements into contracts so that new, more effective technologies and methods are not blocked.
