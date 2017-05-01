@@ -16,7 +16,8 @@ The Small Business Administration (SBA) and United States Digital Service (USDS)
 
 ### Documents
 * [Memo: 8(a) Program Digital Service Initiative](https://techfarhub.cio.gov/assets/files/8aSBA_USDSMemo.pdf){:target="_blank"}
-* [Guide On How To Use An 8(A) Company For Your Digital Service Needs](https://techfarhub.cio.gov/discover-IT/how_to_8a/)
+* [Guide On How To Use An 8(a) Company For Your Digital Service Needs](https://techfarhub.cio.gov/discover-IT/how_to_8a/)
+* One-Pagers about the 8a Digital Service Initiative: [Brief One-Pager](https://techfarhub.cio.gov/assets/files/USDS-SBA8a_Brief.pdf){:target="_blank"} | [Detailed One-Pager](https://techfarhub.cio.gov/assets/files/USDS-SBA8a_Detailed.pdf){:target="_blank"}
 
 ### Statements of Objectives
 
