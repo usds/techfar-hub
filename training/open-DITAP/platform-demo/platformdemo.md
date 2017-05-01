@@ -1,5 +1,5 @@
 ---
-permalink: training/open-DITAP/platformdemo
+permalink: training/open-DITAP/platform-demo/platformdemo.md
 id: 1
 layout: default
 title: EdX Platform Demo
