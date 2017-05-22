@@ -7,7 +7,7 @@ title: Field Guide
 
 ## Finding Opportunities and Providing Services to the Federal Government
 
-![CoverPage](https://github.com/usds/techfar-hub/blob/master/assets/img/Guide_Opportunities_Title.jpg?raw=true)
+![CoverPage](https://github.com/usds/techfar-hub/assets/img/Guide_Opportunities_Title.jpg?raw=true)
 
 Knowing how to start selling digital services to the federal government can be a daunting task for even the most seasoned business owner. 
 
