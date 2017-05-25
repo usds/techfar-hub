@@ -8,8 +8,8 @@ title: Acquisitions Innovation Advocates Across Federal Government
 ## Agency Points of Contact
 [Download this list](https://techfarhub.cio.gov/assets/files/AIA_List.pdf){:target="_blank"}
 
--	Department of Agriculture: Kelly Moore, Project Manager Dept-wide Strategic Sourcing, Kelly.L.Moore@ftc.usda.gov, 970-295-5455
--	Department of Commerce: Nancy Barrere, Procurement Analyst, Nbarrere@doc.gov, 202-482-5519
+-	Department of Agriculture: Kelly Moore, Project Manager Dept-wide Strategic Sourcing, [Kelly.L.Moore@ftc.usda.gov](Kelly.L.Moore@ftc.usda.gov), 970-295-5455
+-	Department of Commerce: Nancy Barrere, Procurement Analyst, [Nbarrere@doc.gov](Nbarrere@doc.gov), 202-482-5519
  - Department of Defense: Larry McLaury, Senior Procurement Analyst, larry.j.mclaury2.civ@mail.mil, 703-697-6710
  -   Department of Education: Marcela Almeida, Associate Director of Enterprise Procurement Initiatives , Marcela.Almeida@ed.gov, 202-245-8048
  - Department of Energy: David Leotta, Director, Office of Contract Management, David.Leotta@hq.doe.gov, 202-287-1363
