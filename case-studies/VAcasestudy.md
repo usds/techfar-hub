@@ -4,7 +4,7 @@ id: 5
 layout: default
 title: The Acquisition that Helped the Department of Veterans Affairs Modernize Its Claims Appeals System
 ---
-By Clair Koroma and Brent Maravilla | U.S. Digital Service, Executive Office of the President
+By Clair Koroma and Brent Maravilla
 
 [Download this Case Study](https://techfarhub.cio.gov/assets/files/USDS-VACaseStudy.pdf){:target="_blank"}
 
