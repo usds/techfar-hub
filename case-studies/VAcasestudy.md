@@ -65,7 +65,7 @@ The following is how the acquisition was executed:
 3.	After release of the RTEP, VA provided notice that the coding submission information would be posted at a certain date/time.
 4.	At the appointed time, nine user stories (See [Appendix 1](https://techfarhub.cio.gov/discover-IT/vacasestudy/appendix1)) were released on the T4NG repository where RTEPs are posted and proposals are submitted. Upon release, vendors had 4 hours to submit questions and the VA had 2 hours to respond to all questions. 
 5.	Vendors had 72 hours, from time of release, to provide a code submission.  
-6.	A detailed evaluation criteria  (See [Appendix 2](https://techfarhub.cio.gov/discover-IT/vacasestudy/appendix2)) ) was developed to guide offerors on the requirements for successful completion of the exercise
+6.	A detailed evaluation criteria  (See [Appendix 2](https://techfarhub.cio.gov/discover-IT/vacasestudy/appendix2)) was developed to guide offerors on the requirements for successful completion of the exercise
 7.	The exercise required the offerors to build an online payment system (venmo clone).  The clone required extensive security considerations, so there were many opportunities for excellence OR mistakes!
 8.	The source code for the coding submission and all relevant design assets and documentation were submitted via github repository with a clearly viewable commit history of the entire development process.
 9.	Offerors formally certified that "the team who developed and designed the coding submission are proposed as key personnel to perform work under the resulting task order barring any unforeseen circumstances"
