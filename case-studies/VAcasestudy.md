@@ -78,6 +78,7 @@ The team used a combination of:
 2.	Specific validation that enabled the team to evaluate submissions uniformly against the criteria.
  
 An example of how this approach was used to evaluate submissions is in the following:
+
 _Example 1_
 - Criteria: Tests fail when functionality is broken	
 - Validation: “(I’d) go into every code base, break something, and then run the (vendor’s) test and make sure the test failed. And I did that with 5 separate things in every (vendor’s) code base” – Shane Russell, USDS
@@ -86,7 +87,7 @@ _Example 2_
 - Criteria: Accounts for high volumes and heavy loads	
 - Validation: “(we wrote) a script to load 10,000 transactions into each vendor’s (application?), then load (the vendor’s) webpage.  And if it took more than 20 seconds (to load) then they failed and it was a weakness” – Shane Russell, USDS
 
-This combined evaluation approach was only possible because of the visibility that a coding exercise provides. Ultimately, that approach proved to be effective in identifying the best vendor.  Submissions were evaluated against seven development categories and four design categories, each with subcomponents (See [Appendix 2](https://techfarhub.cio.gov/discover-IT/vacasestudy/appendix2)) : Evaluation Criteria).  
+This combined evaluation approach was only possible because of the visibility that a coding exercise provides. Ultimately, that approach proved to be effective in identifying the best vendor.  Submissions were evaluated against seven development categories and four design categories, each with subcomponents (See [Appendix 2](https://techfarhub.cio.gov/discover-IT/vacasestudy/#appendix2)): Evaluation Criteria).  
 
 ### Results
 The team received six submissions that each took 4-6 hours to evaluate. The rubric and evaluation criteria allowed the technical team to evaluate and select the vendor offering the best value and expertise for the project requirements.  This submission style also gave way to well-informed debriefs that likely contributed to zero protest actions on the award.  Ability to review code prior to contract award allowed:
