@@ -42,5 +42,6 @@ title: Acquisitions Innovation Advocates Across Federal Government
 ## AIA Council LiaisonsLIAISONS-   
 -	Defense Innovation Unit Experimental (DIUx): Lauren Schmidt, Pathways Director, [Lauren@diux.mil]](Lauren@diux.mil), 570-594-2204
 -	US Digital Services: Jonathan Mostowski, Procurement Analyst, [Jonathan_B_Mostowski@omb.eop.gov](Jonathan_B_Mostowski@omb.eop.gov), 202-395-3438
--	Air Force Office of Transformational Innovation: Pending
+-	Air Force Office of Transformational Innovation: Jim Schuman, Director, Assistant Secretary of the Air Force Acquisition	[jimmie.d.schuman.civ@mail.mil](jimmie.d.schuman.civ@mail.mil), 703-697-6300
+
 -	Prizes and Challenges: Kelly Olson, Senior Innovation Advisor, [Kelly.Olson@gsa.gov](Kelly.Olson@gsa.gov] or (Team@challenge.gov](Team@challenge.gov), 202-297-4522
