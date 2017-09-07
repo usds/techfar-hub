@@ -1,0 +1,20 @@
+# Site settings
+title: TechFAR Hub
+email: techfarhub@omb.eop.gov
+description: > # this means to ignore newlines until "baseurl:"
+ The TechFAR Hub provides resources to apply industry best
+ practices to the world of digital service acquisition across the federal government.
+baseurl: "/techfar-hub-v2" # the subpath of your site, e.g. /blog
+url: "https://usds.github.io" #"https://techfarhub.cio.gov" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+# theme: uswds-jekyll
+
+collections:
+  topics:
+    output: true
+
+gems:
+  - github-pages
+  - jekyll-relative-links

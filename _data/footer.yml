@@ -1,0 +1,21 @@
+# Whether to show the "Return to top" link; can also be
+# configured as an object with 'text' and 'href' properties.
+top: true
+
+# Which links to show at the top of the footer.
+# This can key into _data/navigation.yml or a list of link objects
+# with 'text' and 'href' properties.
+links: footer
+
+# An array of agency logos to show, side by side, in the lower left
+# of the footer on large screens.
+logos:
+  - src: /assets/img/logos/logo-full.png
+    alt: The U.S. Digital Service
+
+contact:
+  links:
+
+  heading: Contact us
+  address: |
+    [techfarhub@omb.eop.gov](mailto:techfarhub@omb.eop.gov)

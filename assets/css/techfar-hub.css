@@ -1,0 +1,95 @@
+  
+.usa-logo a {
+  color: #112e51;
+  font-size: 2.7rem;
+  font-family: "Merriweather","Georgia","Times New Roman",serif;
+}
+
+.usa-header-extended em {
+  line-height: 0.1;
+}
+
+.usa-hero {
+  background-position-y: 15%;
+}
+  
+.usa-hero-callout .usa-button {
+  font-size: 1.7rem;
+}
+  
+.usa-button.usa-external_link {
+  color: #fff !important;
+}
+
+.usa-nav-primary a.usa-current {
+  border-left: 0;
+}
+.usa-nav-primary a.usa-current span {
+  border-bottom: 0.7rem solid #0071bc;
+  padding-bottom: 1rem;
+}
+.usa-nav-primary button.usa-current {
+  border-left: 0;
+}
+.usa-nav-primary button.usa-current span {
+  border-bottom: 0.7rem solid #0071bc;
+  padding-bottom: 1rem;
+}
+
+.techfar-hub-media_block-fa {
+  width: 1.5em;
+  height: 1.5em;
+  text-align: right;
+  margin-top: 2.5rem;
+}
+
+section.card {
+  min-height: 36rem;
+  margin-top: 0.5rem;
+}
+section.card div.card-content {
+  min-height: 29rem;
+  margin-left: 0.5rem;
+}
+
+section.card div.card-content p {
+  border-left: 1px solid #fdb81e;
+  padding-left: 1rem;
+}
+
+section.card div.card-button {
+}
+
+section.card span.usa-label {
+  float: right;
+  margin: 1rem 0.4rem;
+}
+
+section.card audio {
+  width: 100%;
+}
+
+.usa-content p:not(.usa-font-lead) {
+  max-width: 75rem;
+}
+
+.usa-graphic_list-row h3 > a {
+  color: #02bfe7 !important;
+  text-decoration: none !important;
+}
+.usa-graphic_list-row h3 > a:hover {
+  text-decoration: underline !important;
+}
+
+.usa-footer-contact-links a > i.fa {
+  margin-left: 1rem;
+}
+.contribute-button {
+  margin-right: 0;
+}
+
+/** maturity-app **/
+
+#maturity-app li.answer {
+  list-style-type: none;
+}

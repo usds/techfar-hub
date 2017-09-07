@@ -1,0 +1,31 @@
+{% assign graphics = include.graphics %}
+{% if graphics %}
+<section class="usa-section usa-section-dark usa-graphic_list">
+  {% for graphic in graphics %}
+    {% cycle '<div class="usa-grid usa-graphic_list-row">', '' %}
+    <div class="usa-width-one-half usa-media_block">
+
+      {% if graphic.href %}<a href="{{ graphic.href }}">{% endif %}
+      {% if graphic.image.src %}
+        <img class="usa-media_block-img"  src="{{ graphic.image.src | relative_url }}" alt="{{ graphic.image.alt }}">
+      {% endif %}
+      {% if graphic.image.fa %}
+        <i class="usa-media_block-img techfar-hub-media_block-fa {{ graphic.image.fa }}"></i>
+      {% endif %}
+      {% if graphic.href %}</a>{% endif %}
+
+      <div class="usa-media_block-body">
+        {% if graphic.title %}
+        <h3>
+          {% if graphic.href %}<a href="{{ graphic.href }}">{% endif %}
+          {{ graphic.title }}
+          {% if graphic.href %}</a>{% endif %}
+        </h3>
+        {% endif %}
+        {{ graphic.description | markdownify }}
+      </div>
+    </div>
+    {% cycle '', '</div>' %}
+  {% endfor %}
+</section>
+{% endif %}

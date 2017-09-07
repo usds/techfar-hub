@@ -1,0 +1,57 @@
+{% assign cards = include.cards %}
+{% if cards %}
+
+{% for card in cards %}
+    {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
+    {% cycle '<section class="usa-grid card">', '', '' %}
+
+    <div class="usa-width-one-third">
+        <div class="card-content">
+          {% if card.tags %}
+            <div>
+            {% for tag in card.tags %}
+              <span class="usa-label">
+                {% if tag.href %}
+                  <a href="{{ tag.href }}">{{ tag.name }}</a>
+                {% else %}
+                  {{ tag.name }}
+                {% endif %}
+              </span>
+            {% endfor %}
+            </div>
+          {% endif %}
+          {% if card.title %}<h4>{{ card.title }}</h4>{% endif %}
+          {% if card.description %}<p>{{ card.description }}</p>{% endif %}
+        </div>
+      {% if card.audio and card.audio.src %}
+        <div class="card-audio">
+          <audio controls="controls">
+            <source src="{{ card.audio.src }}">
+            <source src="{{ card.audio.src }}">
+          </audio>
+        </div>
+      {% endif %}
+      {% if card.button %}
+        <div class="card-button">
+          <a class="usa-button usa-button-primary{% if card.button.class %} {{card.button.class}}{% endif %}"
+             href="{{ card.button.href }}" {% if card.button.target %}target="{{card.button.target}}"{% endif %}>
+            {{ card.button.text }}
+          </a>
+        </div>
+      {% endif %}
+      {% if card.link %}
+        <div class="card-link">
+          <a class="{% if card.link.class %} {{card.link.class}}{% endif %}"
+             href="{{ card.link.href }}" {% if card.link.target %}target="{{card.link.target}}"{% endif %}>
+            {{ card.link.text }}
+          </a>
+        </div>
+      {% endif %}
+    </div>
+
+  {% cycle '', '', '</section>' %}
+  <!-- {{modulo}} -->
+  {% if forloop.last and modulo != '2' %}</section>{% endif %}
+
+{% endfor %}
+{% endif %}
